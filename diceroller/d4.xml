@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10.0.2" class="java.beans.XMLDecoder">
+ <object class="diceRoller.dice">
+  <void property="name">
+   <string>d4</string>
+  </void>
+  <void property="side">
+   <array class="java.lang.String" length="4">
+    <void index="0">
+     <string>1</string>
+    </void>
+    <void index="1">
+     <string>2</string>
+    </void>
+    <void index="2">
+     <string>3</string>
+    </void>
+    <void index="3">
+     <string>4</string>
+    </void>
+   </array>
+  </void>
+  <void property="sides">
+   <int>4</int>
+  </void>
+ </object>
+</java>

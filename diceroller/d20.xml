@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10.0.2" class="java.beans.XMLDecoder">
+ <object class="diceRoller.dice">
+  <void property="name">
+   <string>d20</string>
+  </void>
+  <void property="side">
+   <array class="java.lang.String" length="20">
+    <void index="0">
+     <string>1</string>
+    </void>
+    <void index="1">
+     <string>2</string>
+    </void>
+    <void index="2">
+     <string>3</string>
+    </void>
+    <void index="3">
+     <string>4</string>
+    </void>
+    <void index="4">
+     <string>5</string>
+    </void>
+    <void index="5">
+     <string>6</string>
+    </void>
+    <void index="6">
+     <string>7</string>
+    </void>
+    <void index="7">
+     <string>8</string>
+    </void>
+    <void index="8">
+     <string>9</string>
+    </void>
+    <void index="9">
+     <string>10</string>
+    </void>
+    <void index="10">
+     <string>11</string>
+    </void>
+    <void index="11">
+     <string>12</string>
+    </void>
+    <void index="12">
+     <string>13</string>
+    </void>
+    <void index="13">
+     <string>14</string>
+    </void>
+    <void index="14">
+     <string>15</string>
+    </void>
+    <void index="15">
+     <string>16</string>
+    </void>
+    <void index="16">
+     <string>17</string>
+    </void>
+    <void index="17">
+     <string>18</string>
+    </void>
+    <void index="18">
+     <string>19</string>
+    </void>
+    <void index="19">
+     <string>20</string>
+    </void>
+   </array>
+  </void>
+  <void property="sides">
+   <int>20</int>
+  </void>
+ </object>
+</java>
